@@ -29,3 +29,8 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXP012+Self
 成功加入课堂
 ```
 
+![](https://raw.githubusercontent.com/latermonk/hwc-microservice-21day/master/_image/0101-cse.png)
+![](https://raw.githubusercontent.com/latermonk/hwc-microservice-21day/master/_image/0102-service-stage.png)
+![](https://raw.githubusercontent.com/latermonk/hwc-microservice-21day/master/_image/0103-class.png)
+
+
